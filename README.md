@@ -4,12 +4,12 @@
 
 I build tidy UIs for complex products—keeping components reusable, styles sane, and flows smooth.
 <!-- <img align="right" src="https://media4.giphy.com/media/ZEwpE87421Lg92iSiJ/giphy.gif" height="185" alt="Sailor Moon" /> -->
-<img align="right" src="1775003_50abd.gif" width="250" alt="Sailor Moon wave" />
+<img align="right" src="1775003_50abd.gif" width="180" alt="Chibi Sailor Moon walking" />
 
 - 💗 logic-heavy screens & clear UX  
 - 💖 reusable components & clean patterns  
 - 👾 tiny experiments & uni projects for now — more landing soon  
-- ✍🏻 learning: React & Node
+- 🌱 learning: React & Node
 
 <p>
   <a href="https://www.linkedin.com/in/nathaliafelfer">
