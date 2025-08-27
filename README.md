@@ -9,7 +9,7 @@ I build tidy UIs for complex products—keeping components reusable, styles sane
 - 💗 logic-heavy screens & clear UX  
 - 💖 reusable components & clean patterns  
 - 👾 tiny experiments & uni projects for now — more landing soon  
-- 🌱 learning: React & Node
+- 🌱 learning: React & Next.js
 
 <p>
   <a href="https://www.linkedin.com/in/nathaliafelfer">
