@@ -1,15 +1,13 @@
 
 
-## ⭐ Front-End Developer (Angular + TypeScript)
+## ⭐ Front-End Developer 
 
 I build tidy UIs for complex products—keeping components reusable, styles sane, and flows smooth.
 <!-- <img align="right" src="https://media4.giphy.com/media/ZEwpE87421Lg92iSiJ/giphy.gif" height="185" alt="Sailor Moon" /> -->
 <img align="right" src="1775003_50abd.gif" width="180" alt="Chibi Sailor Moon walking" />
 
-- 💗 logic-heavy screens & clear UX  
-- 💖 reusable components & clean patterns  
-- 👾 tiny experiments & uni projects for now — more landing soon  
-- 🌱 learning: React & Next.js
+- 👾 tiny experiments & personal projects
+- 🌱 learning: React
 
 <p>
   <a href="https://www.linkedin.com/in/nathaliafelfer">
@@ -22,25 +20,21 @@ I build tidy UIs for complex products—keeping components reusable, styles sane
 
 ## ⭐ Tech I use
 
-**Languages & Core**
-
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
 </p>
-
-**Frontend & UI**
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white&style=for-the-badge" />
 </p>
-
-**Sometimes / supporting**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
