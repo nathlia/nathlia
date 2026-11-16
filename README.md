@@ -1,9 +1,9 @@
-<img align="right" src="1775003_50abd.gif" width="170" alt="Chibi Sailor Moon walking" />
+
 
 ## hi, i'm Nathalia⭐
 
 **Full-stack developer** (front-end at heart). For about five years I've been building and modernizing a large public-sector platform: complex workflows, tidy UIs, and services that agree with each other.
-
+<img align="right" src="1775003_50abd.gif" width="170" alt="Chibi Sailor Moon walking" />
 - 🧩 Angular + TypeScript on the front, Java + Spring Boot + PostgreSQL behind it
 - 🤖 building with AI coding agents: I plan the work, review the agent's plans, and test what ships
 - 🎨 into **design systems** and **accessibility**: tokens, reusable components, and Figma and code that actually match
